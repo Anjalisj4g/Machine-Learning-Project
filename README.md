@@ -87,6 +87,7 @@ For handling outliers, IQR method is used.
 
 * Split data into training and testing sets
 * Model Selection
+  
   ![image](https://github.com/user-attachments/assets/b6ea998a-065f-420f-b1d4-b754b9eea02e)
 
   Compare the performance of all the models based on R-squared, Mean Squared Error (MSE), and Mean Absolute Error (MAE).
